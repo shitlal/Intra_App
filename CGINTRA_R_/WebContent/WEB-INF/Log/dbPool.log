@@ -1,0 +1,19 @@
+Starting DbConnectionBroker Version 1.0.11:
+dbDriver = oracle.jdbc.driver.OracleDriver
+dbServer = jdbc:oracle:thin:@192.168.10.116:1521:CGINTRA
+dbLogin = CGTSIINTRANETUSER
+log file = D:/software in Use/jdevstudio10133/jdev/mywork/CGTMSE116DEV/ViewController/public_html/WEB-INF/Log/dbPool.log
+minconnections = 10
+maxconnections = 450
+Total refresh interval = 1.0 days
+-----------------------------------------
+Wed Jul 23 04:42:35 GMT 2014  Opening connection 0 oracle.jdbc.driver.OracleConnection@e86c03:
+Wed Jul 23 04:42:36 GMT 2014  Opening connection 1 oracle.jdbc.driver.OracleConnection@47e380:
+Wed Jul 23 04:42:36 GMT 2014  Opening connection 2 oracle.jdbc.driver.OracleConnection@1b3d1e5:
+Wed Jul 23 04:42:36 GMT 2014  Opening connection 3 oracle.jdbc.driver.OracleConnection@d66725:
+Wed Jul 23 04:42:37 GMT 2014  Opening connection 4 oracle.jdbc.driver.OracleConnection@ba4539:
+Wed Jul 23 04:42:37 GMT 2014  Opening connection 5 oracle.jdbc.driver.OracleConnection@ad00b2:
+Wed Jul 23 04:42:37 GMT 2014  Opening connection 6 oracle.jdbc.driver.OracleConnection@f553e3:
+Wed Jul 23 04:42:37 GMT 2014  Opening connection 7 oracle.jdbc.driver.OracleConnection@1ce56f8:
+Wed Jul 23 04:42:37 GMT 2014  Opening connection 8 oracle.jdbc.driver.OracleConnection@584e97:
+Wed Jul 23 04:42:38 GMT 2014  Opening connection 9 oracle.jdbc.driver.OracleConnection@85bf5f:
